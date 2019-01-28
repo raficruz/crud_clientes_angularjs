@@ -6,9 +6,10 @@ https://www.npmjs.com/get-npm
 
 Após instalado:
 
-1- Abra o terminal na raiz do projeto e digite
+1-Abra o terminal na raiz do projeto e digite
 npm install
-2- Em seguida:
+
+2-Em seguida:
 npm start
 
 E pronto, basta acessar : http://localhost:3000
